@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakaldhone&label=Profile%20views&color=0e75b6&style=flat" alt="adityakaldhone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakaldhone" alt="adityakaldhone" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true "><img src="https://github-profile-trophy.vercel.app/?username=adityakaldhone" alt="adityakaldhone" /></a> </p>
 
 - 🌱 I’m currently learning **Android app and Web devolopment**
 
